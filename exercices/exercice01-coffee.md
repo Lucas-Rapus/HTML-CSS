@@ -1,10 +1,10 @@
-<!-- ### Exercice : Créer une page web pour le "Café des Amis"
+### Exercice : Créer une page web pour le "Café des Amis"
 
 **Objectif** : Créer une page web pour un café fictif en utilisant différentes balises HTML, y compris des balises sémantiques.
 
 ### Instructions :
 
-1. **Structure de base** : Créez la structure de base du document HTML. -->
+1. **Structure de base** : Créez la structure de base du document HTML.
 2. **En-tête du document** : Ajoutez un titre, une description, des mots-clés, et une favicon.
 3. **En-tête de la page** : Utilisez des balises de titre, une image de logo, et un menu de navigation avec les points suivants : Accueil, Le Menu, Contact, Horaires.
 4. **Section principale** :
